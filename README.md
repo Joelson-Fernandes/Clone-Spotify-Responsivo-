@@ -1,5 +1,5 @@
 <h1 align="center">Clone Spotify (Responsivo)</h1>
-<p align="center">Site realizado afim de colocar em prática o desenvolvimento de sites responsivos.</p> 
+<p align="center">Site elaborado a fim de colocar em prática o desenvolvimento de sites responsivos.</p> 
 
 ![2021-07-27 (28)](https://user-images.githubusercontent.com/81213149/127328903-e85c65f2-a19d-4528-87d7-6298eb208bb0.png)
 
