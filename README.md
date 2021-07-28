@@ -1,6 +1,10 @@
 <h1 align="center">Clone Spotify (Responsivo)</h1>
 <p align="center">Site realizado afim de colocar em prática o desenvolvimento de sites responsivos.</p> 
 
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 ![2021-07-27 (28)](https://user-images.githubusercontent.com/81213149/127328903-e85c65f2-a19d-4528-87d7-6298eb208bb0.png)
 
 ![2021-07-27 (30)](https://user-images.githubusercontent.com/81213149/127328908-b5d4b975-2dd3-4c54-83e9-d60c3e0e54bc.png)
